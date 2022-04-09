@@ -9,5 +9,4 @@
 | <a href="https://github.com/coderachit99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=coderachit99&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="coderachit99's github stats" /></a> | <a href="https://github.com/coderachit99/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderachit99&theme=onedark" alt="coderachit99"/></a> |
 | ------------- | ------------- |
 
-<br />
-<br />
+
