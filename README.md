@@ -12,11 +12,7 @@
 </p>
 </br>
 
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/coderachit99/count.svg" alt="hit counter" align="center">
-</div>
-</br>
+
   
 | <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=coderachit99&theme=bear&showIcons=true"> <img  alt="coderachit's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/coderachit99?theme=bear" /></a> | <a href="https://github.com/coderachit99/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderachit99&theme=onedark" alt="coderachit99"/></a> |
 | ------------- | ------------- |
