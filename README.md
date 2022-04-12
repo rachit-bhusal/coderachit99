@@ -15,9 +15,10 @@
  
  <img align="center" alt="React"   height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
  
+ <img align="right" alt="mongodb"   height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> 
+ 
 <img align="right" alt="Node.js"   height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 
- <img align="right" alt="mongodb"   height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> 
 </p>
 
 
